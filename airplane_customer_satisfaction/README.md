@@ -36,7 +36,9 @@ Customer satisfaction is crucial in the airline industry, impacting customer loy
 ## 📂 Repository Structure
 📁 airline_customer_satisfaction
 ├── 📜 README.md                          # Overview of the project
+
 ├── 📜 AirlineCustomerSatisfaction.ipynb  # Main Google Colab Notebook with analysis
+
 ├── 📜 airline_customer_satisfaction.csv  # Raw data files (CSV) 
 
 ## ⚡ How to Run the Project
