@@ -41,3 +41,12 @@ In this portfolio, you’ll find a collection of projects that showcase my **tec
 - **Intermediate SQL for Data Scientists** (2025), LinkedIn Learning
 - **Introduction to MongoDB** (2025), LinkedIn Learning
 - **Intermediate Deep Learning with PyTorch** (2025), DataCamp
+
+## 📬 Reach Out to Me
+
+You can contact me through the following channels:
+
+- 📧 Email: [debjanisarma7@gmail.com](mailto:debjanisarma7@gmail.com)
+- 🌐 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/debjani-sarma-6329a4103)
+- 💼 GitHub: [dsarma29/Portfolio-Projects](https://github.com/dsarma29/Portfolio-Projects)
+
