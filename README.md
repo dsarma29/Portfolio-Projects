@@ -17,8 +17,8 @@ In this portfolio, you’ll find a collection of projects that showcase my **tec
 
 ### 🌍 COVID-19 Analysis
 - **Tools**: Python, SQL, Tableau
-- **What I did**: Analyzed global COVID-19 datasets to uncover trends and insights regarding case distributions, mortality rates, and vaccination efforts. My goal was to provide actionable insights that could help in decision-making for future health crises. I utilized SQL for data querying and Tableau for visualizing key trends.
-- **Skills**: Data querying, Data visualization, Time series analysis, Trend analysis
+- **What I did**: Analyzed global COVID-19 datasets to uncover trends and insights regarding case distributions, mortality rates, and vaccination efforts. My goal was to provide actionable insights that could help in decision-making for future health crises. I utilized SQL for data querying key trends.
+- **Skills**: Data querying, Time series analysis, Trend analysis
 
 
 ## 🎓 Education
