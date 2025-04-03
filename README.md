@@ -16,7 +16,7 @@ In this portfolio, you’ll find a collection of projects that showcase my **tec
 - **Skills**: Data preprocessing, Machine learning, Exploratory Data Analysis (EDA), Model evaluation
 
 ### 🌍 COVID-19 Analysis
-- **Tools**: Python, SQL, Tableau
+- **Tools**: SQL,
 - **What I did**: Analyzed global COVID-19 datasets to uncover trends and insights regarding case distributions, mortality rates, and vaccination efforts. My goal was to provide actionable insights that could help in decision-making for future health crises. I utilized SQL for data querying key trends.
 - **Skills**: Data querying, Time series analysis, Trend analysis
 
