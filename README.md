@@ -47,6 +47,6 @@ In this portfolio, you’ll find a collection of projects that showcase my **tec
 You can contact me through the following channels:
 
 - 📧 Email: [debjanisarma7@gmail.com](mailto:debjanisarma7@gmail.com)
-- 🌐 LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/debjani-sarma-6329a4103))
+- 🌐 LinkedIn: [Debjani Sarma](https://www.linkedin.com/in/debjani-sarma-6329a4103)
 - 💼 GitHub: [dsarma29/Portfolio-Projects](https://github.com/dsarma29/Portfolio-Projects)
 
