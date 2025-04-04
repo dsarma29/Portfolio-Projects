@@ -15,6 +15,11 @@ In this portfolio, you’ll find a collection of projects that showcase my **tec
 - **What I did**: Built predictive models using **Random Forest** and **XGBoost** to predict customer retention in the airline industry with **96%** and **95%** accuracy. My focus was on **feature engineering**, **data preprocessing**, and uncovering key trends from 100,000+ records.
 - **Skills**: Data preprocessing, Machine learning, Exploratory Data Analysis (EDA), Model evaluation
 
+### 🌡️ Heart Disease Prediction
+- **Tools**: Python (Pandas, Scikit-learn), EDA, Machine Learning
+- **What I did**: Developed and compared classification models (**Naive Bayes**, **Decision Tree**, **SVM**) to predict the likelihood of **heart disease** using clinical data. Explored key health indicators through **visual analysis** and evaluated model performance to guide early diagnosis and intervention strategies.
+- **Skills**: Data cleaning, Exploratory Data Analysis (EDA), Model evaluation and comparison
+
 ### 🌍 COVID-19 Analysis
 - **Tools**: SQL,
 - **What I did**: Analyzed global COVID-19 datasets to uncover trends and insights regarding case distributions, mortality rates, and vaccination efforts. My goal was to provide actionable insights that could help in decision-making for future health crises. I utilized SQL for data querying key trends.
