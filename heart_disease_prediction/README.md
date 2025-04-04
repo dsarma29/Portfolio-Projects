@@ -54,7 +54,7 @@ Clean the dataset: handle missing values, convert categorical variables to numer
 Train various machine learning models: Naïve Bayes, Decision Tree, and SVM.  These models are used for classification and offer different strengths.
 
 ### **🔍 Machine Learning Models Used:**  
-✅ **Naïve Bayes**  
+✅ **Naive Bayes**  
 ✅ **Decision Tree**  
 ✅ **Support Vector Machine (SVM)** 
 - **Purpose:** Compare model performance to find the most effective one.
@@ -83,6 +83,17 @@ Train various machine learning models: Naïve Bayes, Decision Tree, and SVM.  Th
 *Justification:*  SVM is effective for separating classes, particularly when data isn't linearly separable. It finds the optimal boundary between classes.
 
 
-## 📊 **Accuracy Comparison**
+## 📈 📊 **Accuracy Comparison**
 
 A bar chart compares the accuracy scores of the three models, SVM, Naive Bayes, and Decision Tree, providing a visual representation of their performance.
+
+### 💡 **Key Findings:**
+
+1. *Decision Tree:*
+    Decision Trees provided good accuracy and interpretability, offering insights into the key factors influencing heart disease predictions. The visualizations help understand the decision-making process of the model. Gini index and Entropy provided comparable performance.
+
+2. *Naive Bayes:*
+    Naive Bayes demonstrated reasonable accuracy, especially after implementing K-fold cross-validation, which helped improve the model's robustness and generalization ability.
+
+3. *SVM:*
+    SVM also showed considerable accuracy. Tuning hyperparameters may further enhance performance. The 'linear' kernel was used in this case.
