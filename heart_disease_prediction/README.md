@@ -97,3 +97,9 @@ A bar chart compares the accuracy scores of the three models, SVM, Naive Bayes, 
 
 3. *SVM:*
     SVM also showed considerable accuracy. Tuning hyperparameters may further enhance performance. The 'linear' kernel was used in this case.
+
+## ✅ **Final Thoughts**
+
+This project highlights the transformative role of machine learning in healthcare, particularly in predicting life-threatening conditions such as heart disease. By combining robust models, clean data, and insightful analysis, we have demonstrated how technology can empower proactive health management.
+
+🧠 “The future of medicine lies in data-driven decisions.”
