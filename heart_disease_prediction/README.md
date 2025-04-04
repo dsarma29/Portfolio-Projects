@@ -103,3 +103,14 @@ A bar chart compares the accuracy scores of the three models, SVM, Naive Bayes, 
 This project highlights the transformative role of machine learning in healthcare, particularly in predicting life-threatening conditions such as heart disease. By combining robust models, clean data, and insightful analysis, we have demonstrated how technology can empower proactive health management.
 
 🧠 “The future of medicine lies in data-driven decisions.”
+
+---
+📂 Repository Structure
+
+📁 heart_disease_prediction
+
+├── 📜 README.md                         # Overview of the project
+
+├── 📜 heartdiseaseprediction.ipynb      # Main Google Colab Notebook with analysis
+
+├── 📜 HeartDisease.csv                  # Raw data files (CSV)
