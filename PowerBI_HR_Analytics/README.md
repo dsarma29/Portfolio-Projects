@@ -41,7 +41,7 @@ The report consists of four main pages:
 ## 🖼️ Dashboard Preview
 | Overview | Demographics | Performance Tracker | Attrition |
 |-----------|---------------|----------------------|------------|
-| ![Overview](Screenshots/AtlasLab_Overview.png) | ![Demographics](Screenshots/AtlasLab_Demographic.png) | ![Performance Tracker](Screenshots/AtlasLab_PerformanceTracker.png) | ![Attrition](Screenshots/AtlasLab_Attrition.png) |
+| ![Overview](ScreenshotsOfReports/AtlasLab_Overview.png) | ![Demographics](ScreenshotsOfReports/AtlasLab_Demographic.png) | ![Performance Tracker](ScreenshotsOfReports/AtlasLab_PerformanceTracker.png) | ![Attrition](ScreenshotsOfReports/AtlasLab_Attrition.png) |
 
 ---
 
