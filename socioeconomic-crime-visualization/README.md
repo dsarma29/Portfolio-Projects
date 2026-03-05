@@ -49,6 +49,7 @@ The project produced three dashboards, each designed to explore a different lens
 - Crime rates by income level (low, medium, high)
 - Correlation between unemployment and violent crime
 - Gender-based unemployment disparities
+<img width="1088" height="583" alt="image" src="https://github.com/user-attachments/assets/677941d0-898b-4926-98b1-cf72c9780c7a" />
 
 **Dashboard 2: Trends Across Regions**
 - Multi-year comparison of violent/property crime and unemployment
