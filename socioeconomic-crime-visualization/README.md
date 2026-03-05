@@ -59,6 +59,7 @@ The project produced three dashboards, each designed to explore a different lens
 **Dashboard 3: Income and Employment Disparities**
 - Unemployment trends by race and age group
 - Median income by household type (married, family, non-family)
+<img width="1082" height="567" alt="image" src="https://github.com/user-attachments/assets/c7da118b-b892-42eb-aa03-a4c7bcdf99c4" />
 
 ## 🔍 Key Insights
 
