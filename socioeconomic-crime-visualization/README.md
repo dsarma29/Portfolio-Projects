@@ -54,6 +54,7 @@ The project produced three dashboards, each designed to explore a different lens
 **Dashboard 2: Trends Across Regions**
 - Multi-year comparison of violent/property crime and unemployment
 - Regional patterns using 3-year moving averages
+<img width="1091" height="562" alt="image" src="https://github.com/user-attachments/assets/4126b219-2aec-433e-b008-b10d268c1018" />
 
 **Dashboard 3: Income and Employment Disparities**
 - Unemployment trends by race and age group
