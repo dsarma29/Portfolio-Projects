@@ -1,68 +1,50 @@
-# Hey, I'm Debjani Sarma - Data Analyst in the Making 👩‍💻📊
+# Debjani Sarma - Business Analyst 📊
 
-Welcome to my **Data Analyst Portfolio**! 
+Business analyst with 8+ years in enterprise data across banking, pharmaceutical, retail, and utilities, and an M.S. in Business Analytics from the University of South Florida.
 
-I’m Debjani, a graduate student pursuing a **Master of Science in Artificial Intelligence and Business Analytics** at the **University of South Florida**. With 7 years of experience in **IT**, spanning data modeling, analysis, and system integration, I've had the chance to solve real-world problems and optimize processes across industries. 
+My background is requirements analysis, source-to-target mapping, data lineage, and root-cause analysis of data defects in regulated environments, with more recent work on the reporting side in SQL, Python, and Power BI.
 
-I’m a problem solver at heart, and my goal is to turn complex data into actionable insights that drive business decisions. I’m passionate about **Python**, **SQL**, **Machine Learning**, **Data Visualization**, and all things **data analytics**. 💡
+This repository holds my personal projects. Professional experience is on my [LinkedIn](https://www.linkedin.com/in/debjani-sarma-6329a4103) and [portfolio site](https://dsarma29.github.io).
 
-In this portfolio, you’ll find a collection of projects that showcase my **technical chops** in **data analysis**, **machine learning**, and **database management**. You’ll also see a bit of my creative side with **data storytelling** through dashboards and visualizations. 🌟
+## Projects
 
-## 🗂️ Portfolio Projects
+### Socioeconomic Factors and Crime, 2010–2019
+**Python (pandas, NumPy), Tableau**
 
-### 📊 Socioeconomic Factors and Crime Visualization (2010–2019)
+Analyzed how unemployment, income, age, race, and gender relate to violent and property crime across U.S. states and regions. Sourced and merged FBI Uniform Crime Reports and U.S. Census data, resolving inconsistent geographic and demographic coding between them, and normalized for cross-state comparison. Built three interactive Tableau dashboards; property crime correlated strongly with low-income states, while unemployment showed a weak link to violent crime.
 
-- **Tools:** Python (Pandas, NumPy), Tableau  
-- **What I did:** Conducted solo analysis of how socioeconomic variables—**unemployment, income, age, race, gender**—impact violent and property crime across U.S. states and regions from 2010 to 2019. Cleaned and merged datasets from the **FBI UCR** and **U.S. Census**, then developed three interactive Tableau dashboards for visual storytelling and exploration.  
-- **Skills:** Data wrangling, Dashboard development, Data visualization, Regional and demographic analysis, Storytelling with data  
+*Data acquisition and merging, cleaning and normalization, dashboard design*
 
-### 🚀 Customer Satisfaction Forecasting
-- **Tools**: Python, Scikit-learn, Pandas, NumPy
-- **What I did**: Built predictive models using **Random Forest** and **XGBoost** to predict customer retention in the airline industry with **96%** and **95%** accuracy. My focus was on **feature engineering**, **data preprocessing**, and uncovering key trends from 100,000+ records.
-- **Skills**: Data preprocessing, Machine learning, Exploratory Data Analysis (EDA), Model evaluation
+### Movie Investment Analytics and ROI
+**Oracle SQL, Tableau, Python**
 
-### 🌡️ Heart Disease Prediction
-- **Tools**: Python (Pandas, Scikit-learn), EDA, Machine Learning
-- **What I did**: Developed and compared classification models (**Naive Bayes**, **Decision Tree**, **SVM**) to predict the likelihood of **heart disease** using clinical data. Explored key health indicators through **visual analysis** and evaluated model performance to guide early diagnosis and intervention strategies.
-- **Skills**: Data cleaning, Exploratory Data Analysis (EDA), Model evaluation and comparison
+Designed a multidimensional data warehouse and OLAP schema covering 45K+ movies and 20M+ user ratings, supporting analysis by user, time period, region, genre ROI, and release trends. Built a Tableau dashboard visualizing genre performance and budget-to-revenue relationships to support content investment decisions.
 
-### 🌍 COVID-19 Analysis
-- **Tools**: SQL,
-- **What I did**: Analyzed global COVID-19 datasets to uncover trends and insights regarding case distributions, mortality rates, and vaccination efforts. My goal was to provide actionable insights that could help in decision-making for future health crises. I utilized SQL for data querying key trends.
-- **Skills**: Data querying, Time series analysis, Trend analysis
+*Dimensional modeling, SQL analysis, dashboard design*
 
-### 🧠 Alzheimer’s Disease Detection Using Deep Learning
+### Alzheimer's Disease Detection from MRI
+**Python (PyTorch, MONAI), Grad-CAM**
 
-- **Tools:** Python (PyTorch, MONAI, NumPy), Grad-CAM  
-- **What I did:** Collaborated on a team project using 3D CNNs (ResNet-50) to classify Alzheimer’s disease stages from MRI brain scans. Led the **research and literature review**, validated model performance, and analyzed **Grad-CAM** attention maps with the **Harvard-Oxford Cortical Atlas** to improve interpretability. Co-authored the report and presentation to clearly communicate technical and clinical insights.  
-- **Skills:** Deep learning model evaluation, Medical imaging analysis, Explainable AI (Grad-CAM), Scientific reporting, Team collaboration
+Team project applying 3D CNNs (ResNet-50) to classify Alzheimer's stages from MRI scans. I led the research and literature review, validated model performance, and analyzed Grad-CAM attention maps against the Harvard-Oxford Cortical Atlas to assess whether the model was attending to clinically meaningful regions. Co-authored the report and presentation.
 
-## 🎓 Education
+*Model validation, explainability analysis, technical writing*
 
-- **Master of Science** - Artificial Intelligence and Business Analytics  
-  *University of South Florida* (Expected Dec 2025)
-  
-- **Bachelor of Technology** - Computer Science and Engineering  
-  *Sikkim Manipal University* (Jun 2011 - Jun 2015)
+## Skills
 
-## 🛠️ Skills & Tools
+**Business Analysis** — Requirements elicitation and analysis, functional specifications, source-to-target mapping, process and data flow documentation, impact analysis, UAT coordination
 
-- **Programming**: Python, R, SQL, PostgreSQL, MongoDB
-- **Data Analysis & Machine Learning**: Pandas, NumPy, Scikit-learn, PyTorch
-- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Other Tools**: Excel, Microsoft Azure Data Studio, REST API, webMethods Integration, Figma, JIRA, GitHub, Bitbucket
+**Analysis and Reporting** — SQL (SQL Server, MySQL, Oracle), Python (pandas, NumPy, Matplotlib), Power BI (DAX, Power Query), Tableau, Excel
 
-## 🏆 Certifications
+**Data Management** — Data profiling, data lineage, reconciliation, dimensional modeling, ETL/ELT concepts, REST/SOAP APIs
 
-- **Intermediate SQL for Data Scientists** (2025), LinkedIn Learning
-- **Introduction to MongoDB** (2025), LinkedIn Learning
-- **Intermediate Deep Learning with PyTorch** (2025), DataCamp
+**Tools** — Jira, Confluence, Visio, Git, Postman, Splunk, ServiceNow
 
-## 📬 Reach Out to Me
+## Education
 
-You can contact me through the following channels:
+**M.S., Business Analytics** — University of South Florida, Aug 2024 – Dec 2025
 
-- 📧 Email: [debjanisarma7@gmail.com](mailto:debjanisarma7@gmail.com)
-- 🌐 LinkedIn: [Debjani Sarma](https://www.linkedin.com/in/debjani-sarma-6329a4103)
-- 💼 GitHub: [dsarma29/Portfolio-Projects](https://github.com/dsarma29/Portfolio-Projects)
+**B.Tech, Computer Science and Engineering** — Sikkim Manipal University, Jun 2011 – Jun 2015
 
+## Contact
+
+📧 [debjanisarma7@gmail.com](mailto:debjanisarma7@gmail.com) · 🌐 [LinkedIn](https://www.linkedin.com/in/debjani-sarma-6329a4103) · 🌍 [Portfolio](https://dsarma29.github.io)
